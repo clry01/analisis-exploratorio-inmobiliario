@@ -232,3 +232,8 @@ resumen_proyectos.to_csv(
 print("\n========== PROCESO FINALIZADO ==========")
 print("Resumen exportado: resumen_proyectos.csv")
 print("Graficos guardados en la carpeta: graficos")
+
+
+## Seguimiento del proyecto
+
+Proyecto desarrollado como práctica de análisis de datos con Python, Pandas y Matplotlib.
