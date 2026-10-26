@@ -1,0 +1,12 @@
+
+# Datos originales privados
+ventas_excel.csv
+
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Configuración local del editor
+.vscode/
