@@ -64,3 +64,9 @@ Proyecto personal de práctica para desarrollar habilidades de análisis de dato
 Proyecto desarrollado como práctica de análisis de datos con Python, Pandas y Matplotlib.
 
 Cambio realizado directamente desde GitHub para practicar pull.
+
+
+## Mejoras futuras
+
+- Incorporar nuevos indicadores de análisis.
+- Mejorar las visualizaciones para facilitar su interpretación.
