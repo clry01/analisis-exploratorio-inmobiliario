@@ -58,3 +58,7 @@ Los datos originales contienen información de clientes y no forman parte de los
 ## Autor
 
 Proyecto personal de práctica para desarrollar habilidades de análisis de datos con Python.
+
+## Seguimiento del proyecto
+
+Proyecto desarrollado como práctica de análisis de datos con Python, Pandas y Matplotlib.
