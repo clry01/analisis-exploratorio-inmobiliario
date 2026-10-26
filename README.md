@@ -62,3 +62,5 @@ Proyecto personal de práctica para desarrollar habilidades de análisis de dato
 ## Seguimiento del proyecto
 
 Proyecto desarrollado como práctica de análisis de datos con Python, Pandas y Matplotlib.
+
+Cambio realizado directamente desde GitHub para practicar pull.
